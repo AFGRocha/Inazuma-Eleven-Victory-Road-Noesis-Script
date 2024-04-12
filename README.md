@@ -4,6 +4,8 @@
 <p> 
   
  Download Noesis [here](https://richwhitehouse.com/index.php?content=inc_projects.php&showproject=91) </p>
+
+<p>Place the noesis script on plugins/python</p>
 <p>For this to work you need the model, mesh and texture file in the same folder and all should have the same name</p>
 <p>Example of how your folder should look like:</p>
 
