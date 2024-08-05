@@ -1,7 +1,7 @@
-# Inazuma Eleven Victory Road Noesis Script
-
 ## Important Update
 With the release of the Steam version of the Beta, it seems Level-5 made some changes, if you are trying to load the ripped textures from that version, it might not work, if I ever get the chance I'll update the script but for now I'm sorry for the inconvinience
+
+# Inazuma Eleven Victory Road Noesis Script
 
 <p>Noesis Script to load g4md and g4pkm files.</p>
 <p> 
